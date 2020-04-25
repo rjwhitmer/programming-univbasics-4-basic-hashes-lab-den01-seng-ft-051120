@@ -4,7 +4,7 @@ end
 
 def my_hash
   hash = {
-    :baseball_team; "reds"
+    :baseball_team => "reds"
   }
 end
 
